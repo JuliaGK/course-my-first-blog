@@ -1,3 +1,3 @@
 # my-first-blog
 
-Projeto de blog desenvolvido durante o curso online do Django Girls.
+This repository contains a blog developed during an online Django Girls course.
